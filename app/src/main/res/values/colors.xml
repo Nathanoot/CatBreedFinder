@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1273C9</color>
+    <color name="colorPrimaryDark">#072947</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#FFFFFF</color>
+    <color name="searchSeparator">#1273C9</color>
+    <color name="viewLine">#BFC5C6</color>
+    <color name="text">#1A1A1A</color>
+
+</resources>
